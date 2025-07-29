@@ -3,7 +3,7 @@
 This repository contains my completed submission for **Task 4** of the **Softnexis Internship** program.
 
 The task was to:
-- Display a static list of 25 mock products
+- Display a static list of 10 mock products
 - Show **product name, price, and image**
 - Implement **pagination** to display 5 products per page
 - Use **locally stored images** inside the `public/images/` folder
@@ -20,7 +20,7 @@ The task was to:
 
 ## 📦 Features
 
-- Displays 25 mock products (stored in `mockProducts.js`)
+- Displays 10 mock products (stored in `mockProducts.js`)
 - Local image rendering from `/public/images/`
 - Clean, responsive layout
 - Pagination with **Previous / Next** buttons
@@ -28,7 +28,6 @@ The task was to:
 
 ---
 
-## 📁 Project Structure
 
 ## 📁 Project Structure
 
